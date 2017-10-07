@@ -1,4 +1,4 @@
-Apache MXNet (incubating) for Deep Learning
+ Apache MXNet (incubating) for Deep Learning
 =====
 
 [![Build Status](https://travis-ci.org/dmlc/mxnet.svg?branch=master)](https://travis-ci.org/dmlc/mxnet)
